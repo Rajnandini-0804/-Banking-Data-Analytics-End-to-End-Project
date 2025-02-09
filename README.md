@@ -24,4 +24,4 @@ The dashboard will provide a comprehensive view of key business metrics and data
 ## Dashboard
 📊 Stakeholder Insights and Performance Dashboard – An interactive Tableau dashboard for analyzing stakeholders, insurers, and policy performance. It provides insights into premium trends, profitability, asset distribution, and stakeholder contributions through dynamic visualizations, KPIs, and interactive filters.
 
-
+-<a href="https://github.com/Rajnandini-0804/-Banking-Data-Analytics-End-to-End-Project/blob/main/project.tableau.pdf" >Dashboard</a>
