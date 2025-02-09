@@ -5,3 +5,4 @@ The dashboard will provide a comprehensive view of key business metrics and data
 -<a href="https://github.com/Rajnandini-0804/-Banking-Data-Analytics-End-to-End-Project/blob/main/Finance%20record%20(1).xlsx">Dataset/Finance Record</a>
 
 ## Stakeholder Insights and Performance Dashboard
+-<a href="https://github.com/Rajnandini-0804/-Banking-Data-Analytics-End-to-End-Project/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.finance.docx"> Insights</a>
