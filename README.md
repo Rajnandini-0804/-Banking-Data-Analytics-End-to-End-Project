@@ -1,2 +1,4 @@
-# -Banking-Data-Analytics-End-to-End-Project
-Built with: Tableau | Excel,  This interactive Tableau dashboard provides insights into stakeholders, insurers, and policy performance to support data-driven decision-making. It helps analyze premium trends, profitability, asset distribution, and stakeholder contributions through dynamic visualizations.
+# Banking-Data-Analytics(Interactive dashboard Creation using Tableau,MS Excel)
+## Purpose
+The dashboard will provide a comprehensive view of key business metrics and data insights related to stakeholders, insurers, and policy performance. It will enable stakeholders to analyse premium trends, profitability, and asset distribution to make data-driven decisions.
+## dataset Used
